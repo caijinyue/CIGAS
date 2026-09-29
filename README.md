@@ -1,5 +1,8 @@
 # CIGAS: final BagViT training and evaluation
 
+[![License: CC-BY-NC-SA-4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-lightgrey.svg)](LICENSE)
+
+
 Final-model training and evaluation module for **Concept-based artificial intelligence for transparent glaucoma detection from color fundus photographs**. CIGAS denotes the overall system; BagViT is its visual model. This repository covers the two selected experiments:
 
 - `binarylabel_bagvit_7_mae_224_WA_loadsingle_tent`
