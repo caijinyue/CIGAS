@@ -66,7 +66,7 @@ Optional `REFERENCE_TASK` and `REFERENCE_EPOCH` select a reference experiment un
 - `docs/provenance/`: source hashes, checkpoint hashes, training logs and validation evidence.
 - `tests/`: synthetic CPU integration test.
 
-The existing repository license is preserved in `LICENSE`; original RETFound/MAE copyright headers are retained. See `THIRD_PARTY_NOTICES.md`. Author citation metadata and public checkpoint locations remain to be supplied.
+CIGAS original contributions and modifications are licensed under **CC-BY-NC-SA-4.0** (attribution, noncommercial use, and share-alike for shared adaptations); see `LICENSE`. Upstream material retains its original license, preserved in `LICENSES/RETFound-CC-BY-NC-4.0.txt`. See `THIRD_PARTY_NOTICES.md` for scope and attribution. Author citation metadata and public checkpoint locations remain to be supplied.
 
 ## Release scope
 

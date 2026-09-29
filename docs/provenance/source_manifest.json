@@ -31,7 +31,7 @@
   },
   {
     "source": "LICENSE",
-    "packaged": "LICENSE",
+    "packaged": "LICENSES/RETFound-CC-BY-NC-4.0.txt",
     "source_sha256": "517acfe79046fca3d989a5a6f8b55b8c3919bb442609bd9ed0e81af6e25deb3a",
     "packaged_sha256": "517acfe79046fca3d989a5a6f8b55b8c3919bb442609bd9ed0e81af6e25deb3a"
   },
