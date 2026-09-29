@@ -1,0 +1,23 @@
+{
+  "retained_architecture_AST_identical": [
+    "WindowAttention",
+    "replace_attn_with_win_attn",
+    "RETFound_mae",
+    "_build_local_mask",
+    "LocalMaskAttention",
+    "replace_attn_with_local_mask"
+  ],
+  "removed": [
+    "LoRA",
+    "DINOv2",
+    "BagNet/ResNet branches",
+    "BagViT36",
+    "unused shadowed VisionTransformer class",
+    "legacy 11-label loader",
+    "unused folder inference",
+    "flip TTA",
+    "no-TENT evaluation/analysis modes"
+  ],
+  "fixed_model": "RETFound_mae",
+  "window_size": 7
+}

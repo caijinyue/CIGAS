@@ -1,0 +1,21 @@
+[
+  {
+    "checkpoint": "bagvit_7_20251014_dovs/checkpoint-best_7.pth",
+    "strict_load": true,
+    "output_shape": [
+      1,
+      2
+    ],
+    "finite": true
+  },
+  {
+    "strict_load": true,
+    "epoch": 10,
+    "output_shape": [
+      1,
+      12
+    ],
+    "finite": true,
+    "checkpoint": "multilabel_bagvit_7_mae_224_WA_loadsingle_tent_abnormal_head10/checkpoint-best_10.pth"
+  }
+]

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+outputs/
+output_logs/
+delong/
+weights/
+data/
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.xlsx
+*.sqlite3
+*.log
+.DS_Store

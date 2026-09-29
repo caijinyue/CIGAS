@@ -1,0 +1,32 @@
+[
+  {
+    "source": "2_youden_all_external.py",
+    "file": "analysis/binary_metrics.py",
+    "function": "delong_p_value",
+    "source_ast_identical": true
+  },
+  {
+    "source": "2_youden_all_external.py",
+    "file": "analysis/binary_metrics.py",
+    "function": "compute_metrics_for_dataset",
+    "source_ast_identical": true
+  },
+  {
+    "source": "2_multilabel_subset_youden_all_external_VF3.py",
+    "file": "analysis/multilabel_metrics.py",
+    "function": "delong_p_value",
+    "source_ast_identical": true
+  },
+  {
+    "source": "2_multilabel_subset_youden_all_external_VF3.py",
+    "file": "analysis/multilabel_metrics.py",
+    "function": "compute_per_class_metrics",
+    "source_ast_identical": true
+  },
+  {
+    "source": "2_multilabel_subset_youden_all_external_VF3.py",
+    "file": "analysis/multilabel_metrics.py",
+    "function": "load_and_merge_labels",
+    "source_ast_identical": true
+  }
+]

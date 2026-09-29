@@ -1,0 +1,80 @@
+[
+  {
+    "source": "3_train_bagvit.py",
+    "packaged": "src/train_binary.py",
+    "source_sha256": "63c89934a44eb44dee5f7fd2add1dc61e05e6804c833df5c2bea7cf677442f51",
+    "packaged_sha256": "a1813a96a83ef16607fa06db30ea38024de3c58e8cbe0de453305f12e904a512"
+  },
+  {
+    "source": "10_train_bagvit_concept.py",
+    "packaged": "src/train_multilabel.py",
+    "source_sha256": "2bcfc367e8f0592b662b71aad11d4d30b84fd82232fca9bd7507801fbf68b11c",
+    "packaged_sha256": "f389b548af1cc20d4fd8e666f990f132a3b72a2ad453ba2a02cc9e2ea907dd88"
+  },
+  {
+    "source": "models_vit.py",
+    "packaged": "src/models_vit.py",
+    "source_sha256": "7d9110c3dcadde7166222f32e6ae1579bedb6f4f0135916861a7befe19c0b258",
+    "packaged_sha256": "a2dafeda09768677c75298418e4c848e10cf3b2f81600a81a46e9e07e5fdef0c"
+  },
+  {
+    "source": "engine_finetune.py",
+    "packaged": "src/engine_finetune.py",
+    "source_sha256": "dcf88cc1802f9838ffae7fa440da73da7eb46481bcc1f64dbb45c54cdd944030",
+    "packaged_sha256": "02b206d68c2a6d6a2646d11ea1d105959b7915feb9b250af6995571acf089d2e"
+  },
+  {
+    "source": "engine_finetune_multilabel.py",
+    "packaged": "src/engine_finetune_multilabel.py",
+    "source_sha256": "f9dbfe7b3c400adb70a5c76c3cb0f5e459c6bfed32b5056da3a8921af16c6410",
+    "packaged_sha256": "550d033d1957ae08185faced138125dbc4c2f79c130a84bdad634803d4ff7728"
+  },
+  {
+    "source": "LICENSE",
+    "packaged": "LICENSE",
+    "source_sha256": "517acfe79046fca3d989a5a6f8b55b8c3919bb442609bd9ed0e81af6e25deb3a",
+    "packaged_sha256": "517acfe79046fca3d989a5a6f8b55b8c3919bb442609bd9ed0e81af6e25deb3a"
+  },
+  {
+    "source": "2_youden_all_external.py",
+    "packaged": "analysis/binary_metrics.py",
+    "source_sha256": "6d167d9b047d0d0c785af99b1ee08c50975cf4f44058ff4a773f4b3849978d35",
+    "packaged_sha256": "12d144dc6e37040d8403b73b62027ad0f34130b59dd585d2be148aa22e11f9db"
+  },
+  {
+    "source": "2_multilabel_subset_youden_all_external_VF3.py",
+    "packaged": "analysis/multilabel_metrics.py",
+    "source_sha256": "ac01672b9f5c0cc5296c2757f318470490500fb1fca02e5c79b6c7098a9edb2f",
+    "packaged_sha256": "307874347e9bc1f68ca3d0bcfd5e82753e95f8beb8af4922b7b65afed9db2ff3"
+  },
+  {
+    "source": "util/misc.py",
+    "packaged": "src/util/misc.py",
+    "source_sha256": "ae15f91105aaf228703ce13b7ad34ea518c4be10fc41d73c84ffbe943389c51c",
+    "packaged_sha256": "ae15f91105aaf228703ce13b7ad34ea518c4be10fc41d73c84ffbe943389c51c"
+  },
+  {
+    "source": "util/datasets.py",
+    "packaged": "src/util/datasets.py",
+    "source_sha256": "afe21f4c5937953c7c61f2e7b7a5225ef23171e3201dc4fd68ca0796936008ff",
+    "packaged_sha256": "258a8667f3c99194994ca7c4665325315e3de399ac47a1f30dc4c917c7e8b71a"
+  },
+  {
+    "source": "util/lr_decay.py",
+    "packaged": "src/util/lr_decay.py",
+    "source_sha256": "5e6d52ee0a844768089125cea9b940bdbd837e00478b7ea4699baee994692bb2",
+    "packaged_sha256": "5e6d52ee0a844768089125cea9b940bdbd837e00478b7ea4699baee994692bb2"
+  },
+  {
+    "source": "util/lr_sched.py",
+    "packaged": "src/util/lr_sched.py",
+    "source_sha256": "29496a1e8d4577e870c302fa16c907c16151ec8025bfbe129ea5252ef16c2134",
+    "packaged_sha256": "29496a1e8d4577e870c302fa16c907c16151ec8025bfbe129ea5252ef16c2134"
+  },
+  {
+    "source": "util/pos_embed.py",
+    "packaged": "src/util/pos_embed.py",
+    "source_sha256": "313da4d9178b59c429907cde34ab584409f1e20d9fa8f9d113642610d9548c09",
+    "packaged_sha256": "313da4d9178b59c429907cde34ab584409f1e20d9fa8f9d113642610d9548c09"
+  }
+]
